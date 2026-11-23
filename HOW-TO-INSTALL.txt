@@ -1,0 +1,35 @@
+SONIKA FRAMEFINDER 0.1.0  -  HOW TO INSTALL AND USE
+===================================================
+Free Windows app for video editors: find reference videos and images for your
+next edit, fast. No login, no ads.
+By Mehul Soni (@mehuledits.ai)
+
+WHAT IT DOES
+Type what you are making (for example "paper cutout explainer" or "luxury
+real estate reel"), pick a format and style, and FrameFinder opens real
+reference cards from Pinterest, Behance, Dribbble and 20+ other sites.
+You can also paste a screenshot to look for more like it.
+
+INSTALL
+1. Download  Sonika-FrameFinder-Setup-0.1.0-x64.exe  from the Releases page.
+2. Double-click it. Windows may show "Windows protected your PC" because the
+   app is not code-signed. Click "More info", then "Run anyway".
+3. Choose an install folder, finish, and open "Sonika FrameFinder" from the
+   Start menu.
+Needs Windows 10 or 11, 64-bit.
+
+OPTIONAL KEYS (the app works without them)
+Open Settings in the app to add your own:
+- YouTube Data API key  -> live YouTube search
+- OpenAI-compatible key -> AI suggestions
+Keys are stored only on your PC, encrypted with Windows DPAPI.
+
+UNINSTALL
+Windows Settings > Apps > Installed apps > Sonika FrameFinder > Uninstall.
+
+PLEASE NOTE
+Respect each website's terms when you use references you find.
+
+SOURCE CODE AND HELP
+https://github.com/mehulsoni000123/SonikaFrameFinder
+Questions or bugs: message @mehuledits.ai on Instagram.
